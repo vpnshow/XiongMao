@@ -8,21 +8,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/xiongmao) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-熊猫云(XiongMao) 主打**三网优化线路**，面向日常海外网站访问、流媒体观影和 AI 工具使用，支持通用订阅。月付从 **¥6、300GB/月**起，最低年付 **¥72**，折合 **¥6/月**；另有 **500GB/月**的季付特惠，以及 **500GB、6000GB** 两档 365 天一次性流量包。新套餐统一按 **1 倍率**计费。
-
 > [!NOTE]
 > **30 秒看懂熊猫云(XiongMao)**
 >
-> - **月付入门**：300GB/月、¥6/月；600GB/月、¥10/月；1200GB/月、¥15/月。
-> - **周期特惠**：500GB/月，季付 ¥24、半年付 ¥48、年付 ¥96。
-> - **最低年付**：300GB/月套餐 ¥72/年，折合 ¥6/月，需一次支付全年费用。
-> - **专属优惠**：结算时输入优惠码 `eoht` 可享 8 折，适用套餐与最终实付金额以结算页为准。
-> - **一次性流量包**：500GB 总流量 ¥25.90、6000GB 总流量 ¥66，均为 365 天有效，用完或到期即止。
-> - **流量计费**：统一 1 倍率；周期套餐流量每月重置，一次性流量包为有效期内共用的总额度。
-> - **通用订阅**：支持将订阅导入兼容的第三方客户端。
+> [访问官网](https://eoht.net/serve/airport/xiongmao) · [查看套餐与优惠码](https://eoht.net/serve/airport/xiongmao#xiongmao-vpn-plans) · [查看流量规则](https://eoht.net/serve/airport/xiongmao#xiongmao-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/xiongmao#xiongmao-vpn-plans) · [查看流量规则](https://eoht.net/serve/airport/xiongmao#xiongmao-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：300GB/月套餐月付 ¥6、年付 ¥72；年付需一次支付全年费用。
+> - **使用方式**：1 倍率，支持通用订阅；周期流量每月重置，500GB/6000GB 一次性包均为 365 天有效，用完或到期即止。
+> - **专属优惠**：`eoht` 享 8 折，适用套餐与最终实付金额以结算页为准。
 >
+
+熊猫云(XiongMao) 主打**三网优化线路**，面向日常海外网站访问、流媒体观影和 AI 工具使用，支持通用订阅。月付从 **¥6、300GB/月**起，最低年付 **¥72**，折合 **¥6/月**；另有 **500GB/月**的季付特惠，以及 **500GB、6000GB** 两档 365 天一次性流量包。新套餐统一按 **1 倍率**计费。
 
 <a id="cailu-official-website"></a>
 
